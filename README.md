@@ -1,8 +1,7 @@
 # GetDiskStorageID
 
-Program which get all phisycal information about a disk. It was built specially to get the Disk ID of
-iSCSI Disks in a Windows Server. 
-The Windows Server does not have anything by design to bring this information.
+Program which get all physical information about a disk. It was built specially to get the Disk ID of
+iSCSI Disks of a Windows Server because it does not have anything by design to bring this kind of information.
 
 # Parameters
 
